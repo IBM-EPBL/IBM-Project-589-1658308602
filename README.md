@@ -1,4 +1,3 @@
-PROJECT DESIGN AND PLANNING
 # IBM-Project-589-1658308602
 Nutrition assistant Application
 <!--Batch:  -->
